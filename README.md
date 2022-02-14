@@ -1,2 +1,1 @@
-# target
-content to be copied 
+# recieve
